@@ -1,0 +1,87 @@
+{
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "gitlens.historyExplorer.enabled": false,
+    "editor.fontSize": 14,
+    "terminal.integrated.fontSize": 14,
+    "window.zoomLevel": -2,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Atom One Dark",
+    "todohighlight.isEnable": true,
+    "todohighlight.isCaseSensitive": true,
+    "todohighlight.keywords": [
+        "REVIEW:",
+        {
+            "text": "DEBUG",
+            "color": "#fff",
+            "backgroundColor": "#F50057",
+            "isWholeLine": true
+        },
+        {
+            "text": "NOTE",
+            "color": "#ff0000",
+            "backgroundColor": "yellow",
+            "overviewRulerColor": "grey"
+        },
+        {
+            "text": "HACK",
+            "color": "#000",
+            "isWholeLine": true
+        },
+        {
+            "text": "TODO",
+            "color": "#fff",
+            "borderRadius": "2px",
+            "backgroundColor": "#F57C00",
+            "isWholeLine": true
+        },
+        {
+            "text": "WARNING",
+            "color": "#fff",
+            "borderRadius": "2px",
+            "backgroundColor": "#F57C00",
+            "isWholeLine": true
+        }
+    ],
+    "gitlens.gitExplorer.files.layout": "tree",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "git.autofetch": true,
+    "cSpell.language": "en",
+    "cSpell.enabledLanguageIds": [
+        "asciidoc",
+        "bat",
+        "c",
+        "cpp",
+        "csharp",
+        "css",
+        "go",
+        "handlebars",
+        "html",
+        "jade",
+        "javascript",
+        "javascriptreact",
+        "json",
+        "latex",
+        "less",
+        "markdown",
+        "php",
+        "plaintext",
+        "pub",
+        "python",
+        "restructuredtext",
+        "rust",
+        "scss",
+        "text",
+        "typescript",
+        "typescriptreact",
+        "yml"
+    ],
+    "cSpell.userWords": [
+        "janith",
+        "kasun",
+        "openfin"
+    ],
+    "terminal.integrated.rendererType": "dom",
+    "workbench.startupEditor": "welcomePage"
+}
